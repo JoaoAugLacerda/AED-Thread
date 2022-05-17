@@ -1,0 +1,31 @@
+C:\Users\Admin\source\repos\TI_AED_2018\TI_AED_2018\bin\Debug\netcoreapp2.0\TI_AED_2018.deps.json
+C:\Users\Admin\source\repos\TI_AED_2018\TI_AED_2018\bin\Debug\netcoreapp2.0\TI_AED_2018.runtimeconfig.json
+C:\Users\Admin\source\repos\TI_AED_2018\TI_AED_2018\bin\Debug\netcoreapp2.0\TI_AED_2018.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\TI_AED_2018\TI_AED_2018\bin\Debug\netcoreapp2.0\TI_AED_2018.dll
+C:\Users\Admin\source\repos\TI_AED_2018\TI_AED_2018\bin\Debug\netcoreapp2.0\TI_AED_2018.pdb
+C:\Users\Admin\source\repos\TI_AED_2018\TI_AED_2018\obj\Debug\netcoreapp2.0\TI_AED_2018.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\TI_AED_2018\TI_AED_2018\obj\Debug\netcoreapp2.0\TI_AED_2018.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TI_AED_2018\TI_AED_2018\obj\Debug\netcoreapp2.0\TI_AED_2018.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TI_AED_2018\TI_AED_2018\obj\Debug\netcoreapp2.0\TI_AED_2018.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TI_AED_2018\TI_AED_2018\obj\Debug\netcoreapp2.0\TI_AED_2018.dll
+C:\Users\Admin\source\repos\TI_AED_2018\TI_AED_2018\obj\Debug\netcoreapp2.0\TI_AED_2018.pdb
+C:\Users\JoaoA\Desktop\desktop\Banco\Faculdade\PUC\Material PUC\Arquivos Faculdade\TI AED\P9_Hugo Inácio Vasconcelos\TI_AED_2018\TI_AED_2018\bin\Debug\netcoreapp2.0\TI_AED_2018.deps.json
+C:\Users\JoaoA\Desktop\desktop\Banco\Faculdade\PUC\Material PUC\Arquivos Faculdade\TI AED\P9_Hugo Inácio Vasconcelos\TI_AED_2018\TI_AED_2018\bin\Debug\netcoreapp2.0\TI_AED_2018.runtimeconfig.json
+C:\Users\JoaoA\Desktop\desktop\Banco\Faculdade\PUC\Material PUC\Arquivos Faculdade\TI AED\P9_Hugo Inácio Vasconcelos\TI_AED_2018\TI_AED_2018\bin\Debug\netcoreapp2.0\TI_AED_2018.runtimeconfig.dev.json
+C:\Users\JoaoA\Desktop\desktop\Banco\Faculdade\PUC\Material PUC\Arquivos Faculdade\TI AED\P9_Hugo Inácio Vasconcelos\TI_AED_2018\TI_AED_2018\bin\Debug\netcoreapp2.0\TI_AED_2018.dll
+C:\Users\JoaoA\Desktop\desktop\Banco\Faculdade\PUC\Material PUC\Arquivos Faculdade\TI AED\P9_Hugo Inácio Vasconcelos\TI_AED_2018\TI_AED_2018\bin\Debug\netcoreapp2.0\TI_AED_2018.pdb
+C:\Users\JoaoA\Desktop\desktop\Banco\Faculdade\PUC\Material PUC\Arquivos Faculdade\TI AED\P9_Hugo Inácio Vasconcelos\TI_AED_2018\TI_AED_2018\obj\Debug\netcoreapp2.0\TI_AED_2018.csprojAssemblyReference.cache
+C:\Users\JoaoA\Desktop\desktop\Banco\Faculdade\PUC\Material PUC\Arquivos Faculdade\TI AED\P9_Hugo Inácio Vasconcelos\TI_AED_2018\TI_AED_2018\obj\Debug\netcoreapp2.0\TI_AED_2018.AssemblyInfoInputs.cache
+C:\Users\JoaoA\Desktop\desktop\Banco\Faculdade\PUC\Material PUC\Arquivos Faculdade\TI AED\P9_Hugo Inácio Vasconcelos\TI_AED_2018\TI_AED_2018\obj\Debug\netcoreapp2.0\TI_AED_2018.AssemblyInfo.cs
+C:\Users\JoaoA\Desktop\desktop\Banco\Faculdade\PUC\Material PUC\Arquivos Faculdade\TI AED\P9_Hugo Inácio Vasconcelos\TI_AED_2018\TI_AED_2018\obj\Debug\netcoreapp2.0\TI_AED_2018.dll
+C:\Users\JoaoA\Desktop\desktop\Banco\Faculdade\PUC\Material PUC\Arquivos Faculdade\TI AED\P9_Hugo Inácio Vasconcelos\TI_AED_2018\TI_AED_2018\obj\Debug\netcoreapp2.0\TI_AED_2018.pdb
+C:\Users\JoaoA\Desktop\Banco\Faculdade\PUC\Material PUC\Arquivos Faculdade\TI AED\P9_Hugo Inácio Vasconcelos\TI_AED_2018\TI_AED_2018\bin\Debug\netcoreapp2.0\TI_AED_2018.deps.json
+C:\Users\JoaoA\Desktop\Banco\Faculdade\PUC\Material PUC\Arquivos Faculdade\TI AED\P9_Hugo Inácio Vasconcelos\TI_AED_2018\TI_AED_2018\bin\Debug\netcoreapp2.0\TI_AED_2018.runtimeconfig.json
+C:\Users\JoaoA\Desktop\Banco\Faculdade\PUC\Material PUC\Arquivos Faculdade\TI AED\P9_Hugo Inácio Vasconcelos\TI_AED_2018\TI_AED_2018\bin\Debug\netcoreapp2.0\TI_AED_2018.runtimeconfig.dev.json
+C:\Users\JoaoA\Desktop\Banco\Faculdade\PUC\Material PUC\Arquivos Faculdade\TI AED\P9_Hugo Inácio Vasconcelos\TI_AED_2018\TI_AED_2018\bin\Debug\netcoreapp2.0\TI_AED_2018.dll
+C:\Users\JoaoA\Desktop\Banco\Faculdade\PUC\Material PUC\Arquivos Faculdade\TI AED\P9_Hugo Inácio Vasconcelos\TI_AED_2018\TI_AED_2018\bin\Debug\netcoreapp2.0\TI_AED_2018.pdb
+C:\Users\JoaoA\Desktop\Banco\Faculdade\PUC\Material PUC\Arquivos Faculdade\TI AED\P9_Hugo Inácio Vasconcelos\TI_AED_2018\TI_AED_2018\obj\Debug\netcoreapp2.0\TI_AED_2018.csprojAssemblyReference.cache
+C:\Users\JoaoA\Desktop\Banco\Faculdade\PUC\Material PUC\Arquivos Faculdade\TI AED\P9_Hugo Inácio Vasconcelos\TI_AED_2018\TI_AED_2018\obj\Debug\netcoreapp2.0\TI_AED_2018.AssemblyInfoInputs.cache
+C:\Users\JoaoA\Desktop\Banco\Faculdade\PUC\Material PUC\Arquivos Faculdade\TI AED\P9_Hugo Inácio Vasconcelos\TI_AED_2018\TI_AED_2018\obj\Debug\netcoreapp2.0\TI_AED_2018.AssemblyInfo.cs
+C:\Users\JoaoA\Desktop\Banco\Faculdade\PUC\Material PUC\Arquivos Faculdade\TI AED\P9_Hugo Inácio Vasconcelos\TI_AED_2018\TI_AED_2018\obj\Debug\netcoreapp2.0\TI_AED_2018.dll
+C:\Users\JoaoA\Desktop\Banco\Faculdade\PUC\Material PUC\Arquivos Faculdade\TI AED\P9_Hugo Inácio Vasconcelos\TI_AED_2018\TI_AED_2018\obj\Debug\netcoreapp2.0\TI_AED_2018.pdb
